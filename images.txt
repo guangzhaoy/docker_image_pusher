@@ -12,5 +12,3 @@ elasticsearch:7.10.1
 datahub-elasticsearch-setup:head
 mysql:8.2
 datahub-mysql-setup:head
-指定架构
---platform=linux/arm64 xiaoyaliu/alist
