@@ -11,3 +11,4 @@ confluentinc/cp-zookeeper:7.4.0
 elasticsearch:7.10.1
 mysql:8.2
 acryldata/datahub-mysql-setup:head
+elasticsearch:8.14.0
