@@ -11,4 +11,7 @@
 # elasticsearch:7.10.1
 # mysql:8.2
 # acryldata/datahub-mysql-setup:head
-elasticsearch:8.14.0
+# elasticsearch:8.14.0
+openmetadata/server:1.4.4
+openmetadata/ingestion:1.4.4
+openmetadata/db:1.4.4
