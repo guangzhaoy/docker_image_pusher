@@ -1,14 +1,14 @@
-acryldata/datahub-upgrade:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-actions:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-acryldata/datahub-elasticsearch-setup:head
-acryldata/datahub-kafka-setup:head
-confluentinc/cp-schema-registry:7.4.0
-confluentinc/cp-kafka:7.4.0
-confluentinc/cp-zookeeper:7.4.0
-elasticsearch:7.10.1
-mysql:8.2
-acryldata/datahub-mysql-setup:head
+# acryldata/datahub-upgrade:head
+# acryldata/datahub-frontend-react:head
+# acryldata/datahub-actions:head
+# acryldata/datahub-gms:head
+# acryldata/datahub-upgrade:head
+# acryldata/datahub-elasticsearch-setup:head
+# acryldata/datahub-kafka-setup:head
+# confluentinc/cp-schema-registry:7.4.0
+# confluentinc/cp-kafka:7.4.0
+# confluentinc/cp-zookeeper:7.4.0
+# elasticsearch:7.10.1
+# mysql:8.2
+# acryldata/datahub-mysql-setup:head
 elasticsearch:8.14.0
