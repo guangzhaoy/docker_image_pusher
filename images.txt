@@ -9,6 +9,5 @@ confluentinc/cp-schema-registry:7.4.0
 confluentinc/cp-kafka:7.4.0
 confluentinc/cp-zookeeper:7.4.0
 elasticsearch:7.10.1
-datahub-elasticsearch-setup:head
 mysql:8.2
 datahub-mysql-setup:head
