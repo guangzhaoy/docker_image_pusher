@@ -6,8 +6,9 @@ acryldata/datahub-upgrade:head
 acryldata/datahub-elasticsearch-setup:head
 acryldata/datahub-kafka-setup:head
 acryldata/datahub-mysql-setup:head
-metabase/metabase
-apache/superset:latest
+
+# metabase/metabase
+# apache/superset:latest
 
 confluentinc/cp-schema-registry:7.4.0
 confluentinc/cp-kafka:7.4.0
